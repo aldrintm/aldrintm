@@ -18,13 +18,13 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aldrinmab//)](https://www.linkedin.com/in/aldrinmab/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://your-portfolio.com/)](https://your-portfolio.com/)
 
-![Profile Banner](https://your-banner-image-url.png)
+![Profile Banner]([https://your-banner-image-url.png](https://media.licdn.com/dms/image/v2/C4D03AQFYdqoEwWFy3g/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1516481267045?e=1749081600&v=beta&t=jV2DteYpNJfBMuPwbBoa5MLZ7uXUIta8a6J37z2rTM8))
 
 ### About Me 🚀
 
 I'm a passionate developer specializing in modern web technologies. I love building responsive, user-friendly applications with clean and maintainable code. When I'm not coding, you'll find me home doing construction projects as I love to build.
 
-```javascript
+<pre>
 const aboutMe = {
   technologies: {
     frontEnd: ["React", "Next.js", "Tailwind CSS", "JavaScript", "TypeScript", "HTML", "CSS"],
@@ -36,7 +36,7 @@ const aboutMe = {
   currentlyLearning: ["AWS", "GraphQL", "React Native"],
   funFact: "Your fun fact here!"
 };
-```
+</pre>
 
 ### My GitHub Stats 📊
 
