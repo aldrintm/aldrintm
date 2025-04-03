@@ -33,8 +33,8 @@ const aboutMe = {
     deployment: ["Vercel", "Netlify", "Docker"],
     versionControl: ["Git", "GitHub"],
   },
-  currentlyLearning: ["Python", "GraphQL", "React Native"],
-  funFact: "the last time I check I can hold my breath for almost 4 minutes under water"
+  currentlyLearning: ["AWS", "GraphQL", "React Native"],
+  funFact: "Your fun fact here!"
 };
 ```
 
