@@ -9,7 +9,7 @@
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi , I'm Aldrin <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
+<h1 align="center">Hi , I'm aldrintm <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 <center><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=600&size=20&duration=7000&pause=1000&color=1F67D1&center=true&vCenter=true&width=435&lines=FULL+STACK+DEVELOPER;Customer+Database+Management+Apps" width='100%' /></a></center>
 
 <p align='center'>
@@ -21,7 +21,7 @@
 </p>
 
 
-<h3 align='center' style="font-bold">Full Stack Developer | React | Next.js | Tailwind CSS | MongoDB Atlas</h3>
+<h3 align='center' style="font-bold">Frontend | Backend | React | Next.js | Tailwind CSS | MongoDB | AuthJs | Mapbox</h3>
 
 ## <h3 align='center' style="font-bold"></h3>
 
@@ -76,7 +76,7 @@ I'm a passionate developer specializing in modern web technologies. I love build
           </a>
         </p>
         <p>
-          <strong>React, Next.js, Tailwind CSS, MongoDB Atlas</strong> - Brief description of your project.
+          <strong>Nextjs+Auth+MongoDB+Mapbox</strong> - CRM w/ Scheduling and Navigation
         </p>
       </div>
     </td>
@@ -95,7 +95,7 @@ I'm a passionate developer specializing in modern web technologies. I love build
           </a>
         </p>
         <p>
-          <strong>React, Tailwind CSS, Node.js, MongoDB Atlas</strong> - Brief description of your project.
+          <strong>Mongo+Express+React+Node</strong> - Task project.
         </p>
       </div>
     </td>
