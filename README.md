@@ -21,8 +21,10 @@
 </p>
 
 
+<h3 align='center' style="font-bold">Full Stack Developer | React | Next.js | Tailwind CSS | MongoDB Atlas</h3>
 
-## Full Stack Developer | React | Next.js | Tailwind CSS | MongoDB Atlas
+## <h3 align='center' style="font-bold"></h3>
+
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Next.js-informational?style=flat&logo=next.js&logoColor=white&color=2bbc8a)
