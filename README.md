@@ -10,7 +10,7 @@
 -->
 
 <h1 align="center">Hi , I'm aldrintm <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
-<center><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=600&size=20&duration=7000&pause=1000&color=1F67D1&center=true&vCenter=true&width=435&lines=FULL+STACK+DEVELOPER;Customer+Database+Management+Apps" width='100%' /></a></center>
+<center><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=600&size=20&duration=7000&pause=1000&color=1F67D1&center=true&vCenter=true&width=435&lines=FULL+STACK+DEVELOPER;I+❤️+Coffee" width='100%' /></a></center>
 
 <p align='center'>
 
@@ -53,8 +53,8 @@ I'm a passionate developer specializing in modern web technologies. I love build
 ### My GitHub Stats 📊
 
 <div align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aldrintm&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aldrintm&layout=compact&langs_count=7&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aldrintm&show_icons=tru&hide=prs,issues&theme=monokai&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aldrintm&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 ### Featured Projects 🛠️
