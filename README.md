@@ -53,7 +53,7 @@ I'm a passionate developer specializing in modern web technologies. I love build
 ### My GitHub Stats 📊
 
 <div align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aldrintm&show_icons=true&hide=prs,issues&theme=monokai&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aldrintm&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aldrintm&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
