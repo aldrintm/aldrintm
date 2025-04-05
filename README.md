@@ -62,10 +62,10 @@ I'm a passionate developer specializing in modern web technologies. I love build
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">Project 1</h3>
+      <h5 align="center">CRM w/ MongoDB + Scheduling + Auth + Mapbox</h5>
       <div align="center">
         <a href="https://github.com/your-username/project-1" target="_blank">
-          <img src="https://via.placeholder.com/500x300" width="400" alt="Project 1"/>
+          <img src="https://github.com/user-attachments/assets/27178865-4d4c-4208-a3f4-53c0c2b75594" width="400" alt="Project 1"/>
         </a>
         <p>
           <a href="https://github.com/your-username/project-1" target="_blank">
