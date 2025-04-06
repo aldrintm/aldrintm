@@ -10,7 +10,7 @@
 -->
 
 <h1 align="center">Hi , I'm aldrintm <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
-<center><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=600&size=20&duration=7000&pause=1000&color=1F67D1&center=true&vCenter=true&width=435&lines=FULL+STACK+DEVELOPER;Hire+me!+I+❤️+Coffee" width='100%' /></a></center>
+<center><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=600&size=20&duration=7000&pause=1000&color=1F67D1&center=true&vCenter=true&width=435&lines=FULL+STACK+WEB+DEVELOPER;Hire+me.+I+❤️+Coffee" width='100%' /></a></center>
 
 <p align='center'>
 
